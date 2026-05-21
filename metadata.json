@@ -1,0 +1,6 @@
+{
+  "name": "Korean Idioms Quiz",
+  "description": "한국어 관용어 55가지를 학습하고 재미있게 퀴즈로 풀어보는 학습 프로그램입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
